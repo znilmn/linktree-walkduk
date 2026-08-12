@@ -635,3 +635,10 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* Shopee */
+.button-shopee {
+	--button-text:#ffffff;
+	--button-background:#EE4D2D;
+}
+
