@@ -638,7 +638,8 @@
 
 /* Shopee */
 .button-shopee {
-	--button-text:#ffffff;
-	--button-background:#EE4D2D;
+	--button-text:#000000;
+	--button-background:#ffffff;
+	--button-border:1px solid #EE4D2D;
 }
 
